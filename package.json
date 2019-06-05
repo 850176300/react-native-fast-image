@@ -1,5 +1,5 @@
 {
-    "name": "@jellydarli/react-native-fast-image",
+    "name": "react-native-fast-image-v2",
     "version": "5.2.1",
     "description": "🚩 FastImage, performant React Native image component.",
     "keywords": [
@@ -9,13 +9,13 @@
         "image",
         "priority"
     ],
-    "homepage": "https://github.com/850176300/react-native-fast-image#readme",
+    "homepage": "https://github.com/850176300/react-native-fast-image-v2#readme",
     "bugs": {
-        "url": "https://github.com/850176300/react-native-fast-image/issues"
+        "url": "https://github.com/850176300/react-native-fast-image-v2/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/850176300/react-native-fast-image.git"
+        "url": "https://github.com/850176300/react-native-fast-image-v2.git"
     },
     "license": "(MIT AND Apache-2.0)",
     "author": "Jelly Darli <jellylw1314@gmail.com> (https://deardarli.com)",
@@ -58,7 +58,7 @@
         "prettier-check": "^2.0.0",
         "prop-types": "^15.6.2",
         "react": "16.8.3",
-        "react-native": "^0.58.5",
+        "react-native": "^0.55.4",
         "react-test-renderer": "16.8.3",
         "semantic-release": "^15.13.2"
     },
