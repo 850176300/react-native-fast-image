@@ -16,8 +16,8 @@ rootProject.name = 'MyApp'
 
 include ':app'
 
-+ include ':react-native-fast-image'
-+ project(':react-native-fast-image').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-fast-image/android')
++ include ':react-native-fast-image-v2'
++ project(':react-native-fast-image-v2').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-fast-image-v2/android')
 ```
 
 * Edit `android/app/build.gradle`

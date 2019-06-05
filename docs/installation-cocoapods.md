@@ -17,7 +17,7 @@ target 'ReactNativeFastImageCocoaPodsExample' do
   ]
   pod 'yoga', :path => '../node_modules/react-native/ReactCommon/yoga'
 
-+  pod 'react-native-fast-image', :path => '../node_modules/react-native-fast-image'
++  pod 'react-native-fast-image-v2', :path => '../node_modules/react-native-fast-image-v2'
 end
 ```
 
