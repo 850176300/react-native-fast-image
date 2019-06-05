@@ -58,11 +58,12 @@ and
 ## Usage
 
 ```bash
+#在v5.2.0的基础上修改ios更新问题
 # Install
-yarn add react-native-fast-image
+yarn add react-native-fast-image-v2
 
 # Automatic linking. (other linking methods listed below)
-react-native link react-native-fast-image
+react-native link react-native-fast-image-v2
 ```
 
 ```jsx
